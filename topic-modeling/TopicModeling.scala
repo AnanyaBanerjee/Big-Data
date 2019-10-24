@@ -1,4 +1,4 @@
-// @author: Manas Bundele, Ananya Banerjee
+// @author: Ananya Banerjee, Manas Bundele
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.rdd.RDD
 import org.apache.spark.ml.feature.StopWordsRemover
