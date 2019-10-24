@@ -1,4 +1,4 @@
-// @author: Manas Bundele, Ananya Banerjee
+// @author: Ananya Banerjee, Manas Bundele
 
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator
